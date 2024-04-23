@@ -1,0 +1,1353 @@
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.AssemblyReference.cache
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfoInputs.cache
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfo.cs
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.CoreCompileInputs.cache
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.MvcApplicationPartsAssemblyInfo.cs
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.MvcApplicationPartsAssemblyInfo.cache
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.RazorAssemblyInfo.cache
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.RazorAssemblyInfo.cs
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\appsettings.Development.json
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\appsettings.json
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.staticwebassets.runtime.json
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.exe
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.deps.json
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.runtimeconfig.json
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.pdb
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Humanizer.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\MessagePack.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Common.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\staticwebassets.build.json
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\staticwebassets.development.json
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\scopedcss\bundle\ContactManager.styles.css
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\scopedcss\projectbundle\ContactManager.bundle.scp.css
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.CopyComplete
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\refint\ContactManager.dll
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.pdb
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.genruntimeconfig.cache
+D:\Big_data_georgian_hdd\Information_encoding_programs\ContactManager\ContactManager\obj\Debug\net6.0\ref\ContactManager.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\appsettings.Development.json
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\appsettings.json
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.staticwebassets.runtime.json
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.exe
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.deps.json
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.runtimeconfig.json
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.pdb
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Humanizer.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\MessagePack.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\MessagePack.Annotations.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Common.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Configuration.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Frameworks.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.LibraryModel.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Packaging.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.ProjectModel.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Protocol.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Versioning.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.Convention.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.Hosting.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.Runtime.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.TypedParts.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\System.Drawing.Common.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\System.Runtime.Caching.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\System.Security.Permissions.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\System.Windows.Extensions.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+P:\Mahipal_VS\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.AssemblyReference.cache
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfoInputs.cache
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfo.cs
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.CoreCompileInputs.cache
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.MvcApplicationPartsAssemblyInfo.cs
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.MvcApplicationPartsAssemblyInfo.cache
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.RazorAssemblyInfo.cache
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.RazorAssemblyInfo.cs
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\staticwebassets.build.json
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\staticwebassets.development.json
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\scopedcss\bundle\ContactManager.styles.css
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\scopedcss\projectbundle\ContactManager.bundle.scp.css
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.CopyComplete
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.dll
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\refint\ContactManager.dll
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.pdb
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.genruntimeconfig.cache
+P:\Mahipal_VS\ContactManager\ContactManager\obj\Debug\net6.0\ref\ContactManager.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\appsettings.json
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.staticwebassets.runtime.json
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.exe
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.deps.json
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.runtimeconfig.json
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.pdb
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.AssemblyReference.cache
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfoInputs.cache
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfo.cs
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.RazorAssemblyInfo.cache
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.RazorAssemblyInfo.cs
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\scopedcss\bundle\ContactManager.styles.css
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\scopedcss\projectbundle\ContactManager.bundle.scp.css
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.CopyComplete
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\refint\ContactManager.dll
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.pdb
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.genruntimeconfig.cache
+C:\Users\Prasanth Parthiban\Desktop\Georgian\Information Encoding Standards\Final Project\ContactManager\ContactManager\obj\Debug\net6.0\ref\ContactManager.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\appsettings.json
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.staticwebassets.runtime.json
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.exe
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.deps.json
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.runtimeconfig.json
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.pdb
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\MessagePack.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.AssemblyReference.cache
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfoInputs.cache
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfo.cs
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.RazorAssemblyInfo.cache
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.RazorAssemblyInfo.cs
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\scopedcss\bundle\ContactManager.styles.css
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\scopedcss\projectbundle\ContactManager.bundle.scp.css
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.CopyComplete
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\refint\ContactManager.dll
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.pdb
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.genruntimeconfig.cache
+C:\Users\ramya\Downloads\ContactManager\ContactManager\ContactManager\obj\Debug\net6.0\ref\ContactManager.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\appsettings.Development.json
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\appsettings.json
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.staticwebassets.runtime.json
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.exe
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.deps.json
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.runtimeconfig.json
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ContactManager.pdb
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Humanizer.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\MessagePack.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Common.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.AssemblyReference.cache
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfoInputs.cache
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfo.cs
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.CoreCompileInputs.cache
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.MvcApplicationPartsAssemblyInfo.cs
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.MvcApplicationPartsAssemblyInfo.cache
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.RazorAssemblyInfo.cache
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.RazorAssemblyInfo.cs
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\staticwebassets.build.json
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\staticwebassets.development.json
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\scopedcss\bundle\ContactManager.styles.css
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\scopedcss\projectbundle\ContactManager.bundle.scp.css
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.CopyComplete
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\refint\ContactManager.dll
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.pdb
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.genruntimeconfig.cache
+D:\Class\BDAT 1001, Information Encoding Standards\ContactManager\ContactManager\obj\Debug\net6.0\ref\ContactManager.dll
